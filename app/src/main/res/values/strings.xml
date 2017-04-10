@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Creditas</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="money_format">R$ %1$s</string>
+</resources>
